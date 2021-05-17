@@ -1,0 +1,2 @@
+# Student-Grade
+Students are awarded points toward their grades based upon the addition of the average of three quizzes (Q1, Q2, Q3), the midterm exam (MT ), and the final exam (FINAL). Quizzes are marked out of 5, the midterm is out of 30, and the final is out of 70. Compute the total points using a Java program and print the result out of 100 according to the following percentages: Quizzes: 25%, Midterm: 35%, and Final: 40%.
